@@ -1,0 +1,11 @@
+{
+    "name": "Monkey 1",
+    "description": "My amazing Monkey",
+    "image": "https://ipfs.io/ipfs/bafkreiarikjillpxzo5wly33glmvlljsmptbqhahc3lqewaobtfcjbdxhm",
+    "attributes": [
+      {
+        "trait_type": "Monket Type",
+        "value": "Classic"
+      }
+    ]
+  }
